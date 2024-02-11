@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nurulla Ibadov</h1>
-<h3 align="center">My name is Nurulla and I'm Front-End Web developer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurullaibadov&label=Profile%20views&color=0e75b6&style=flat" alt="nurullaibadov" /> </p>
+<h1 align="left">Hi 👋, I'm Nurulla Ibadov</h1>
+<h3 align="left">My name is Nurulla and I'm Front-End Web developer.</h3>
 
 - 📫 How to reach me:**ibadnurulla@gmail.com**
 
