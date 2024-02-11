@@ -1,18 +1,12 @@
 [![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nurulla Ibadov</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">My name is Nurulla and I'm Front-End Web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/0*sp42a5GmqT_VavSq.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurullaibadov&label=Profile%20views&color=0e75b6&style=flat" alt="nurullaibadov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ibadovnurulla" target="blank"><img src="https://img.shields.io/twitter/follow/ibadovnurulla?logo=twitter&style=for-the-badge" alt="ibadovnurulla" /></a> </p>
 
-- 🌱 I’m currently learning **react native**
-
-- 💬 Ask me about **js,python,html,css**
-
 - 📫 How to reach me **ibadnurulla@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
