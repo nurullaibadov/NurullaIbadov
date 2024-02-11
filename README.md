@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Nurulla Ibadov</h1>
 <h3 align="left">My name is Nurulla and I'm Front-End Web developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurullaibadov&label=Profile%20views&color=0e75b6&style=flat" alt="nurullaibadov"  /> </p>
-- 📫 How to reach me **ibadnurulla@gmail.com**
+
+- 📫 How to reach me : **ibadnurulla@gmail.com**
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nurullaibadov&show_icons=true&locale=en&layout=compact" alt="nurullaibadov" width="30%" height="240px";
 } /></p>
