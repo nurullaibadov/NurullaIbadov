@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nurulla Ibadov</h1>
-<h3 align="left">My name is Nurulla and I'm Front-End Web developer.</h3>
+<h3 align="left">My name is Nurulla and I'm Software Engineer.</h3>
 
 - 📫 How to reach me:**ibadnurulla@gmail.com**
 
